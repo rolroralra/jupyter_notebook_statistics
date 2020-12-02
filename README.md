@@ -1,8 +1,13 @@
+## Jupyter Notebook URL
+[https://jupyter.rolroralra.com](https://jupyter.rolroralra.com)
+
+---
 ## How to Setup Jupyter Notebook Server as a daemon service
   - [https://towshif.github.io/site/tutorials/Python/setup-Jupyter/](https://towshif.github.io/site/tutorials/Python/setup-Jupyter/)
   - [https://program-error-review.tistory.com/14](https://program-error-review.tistory.com/14)
   - [https://goodtogreate.tistory.com/entry/IPython-Notebook-%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95](https://goodtogreate.tistory.com/entry/IPython-Notebook-%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95)
 
+---
 #### Issues
 - nginx reverse proxy setting
 	> [https://jupyterhub.readthedocs.io/en/stable/reference/config-proxy.html](https://jupyterhub.readthedocs.io/en/stable/reference/config-proxy.html)
@@ -15,6 +20,7 @@
   <summary>Details</summary>
   <p>
 
+---
 #### /etc/nginx/conf.d/jupyter.conf
 ```nginx.conf
 map $http_upgrade $connection_upgrade {
