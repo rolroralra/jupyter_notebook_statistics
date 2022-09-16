@@ -80,7 +80,7 @@ server {
 - [Inferential Statistics](https://github.com/rolroralra/jupyter_notebook_statistics/blob/master/workspace/Inferential_Statistics.ipynb)
 - [Inferential Statistics 2](https://github.com/rolroralra/jupyter_notebook_statistics/blob/master/workspace/Inferential_Statistics_2.ipynb)
 
-```ipython
+```ipynb
 {
  "cells": [
   {
