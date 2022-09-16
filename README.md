@@ -72,3 +72,10 @@ server {
 ```
   </p>
 </details>
+
+---
+### 통계학 필기노트
+- [Probability Distribution](https://github.com/rolroralra/jupyter_notebook_statistics/blob/master/workspace/Probability_Distribution.ipynb)
+- [Sampling Distribution](https://github.com/rolroralra/jupyter_notebook_statistics/blob/master/workspace/Sampling_Distribution.ipynb)
+- [Inferential Statistics](https://github.com/rolroralra/jupyter_notebook_statistics/blob/master/workspace/Inferential_Statistics.ipynb)
+- [Inferential Statistics 2](https://github.com/rolroralra/jupyter_notebook_statistics/blob/master/workspace/Inferential_Statistics_2.ipynb)
